@@ -63,7 +63,7 @@ export default function Home() {
         )}
 
         <div className="flex gap-8 text-sm text-purple-300/60 mt-8">
-          <div className="flex items-center gap-2"><Target className="w-4 h-4" /> Intent Scoring (>80/100)</div>
+          <div className="flex items-center gap-2"><Target className="w-4 h-4" /> Intent Scoring (&gt;80/100)</div>
           <div className="flex items-center gap-2">🔄 24/7 Subreddit Scraping</div>
           <div className="flex items-center gap-2">🤖 Semantic AI Drafting</div>
         </div>
