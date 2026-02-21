@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { ArrowRight, Sparkles, Send, Target, Radar, Flame, Bot, ShieldAlert, ArrowUpRight, Crosshair } from "lucide-react";
+import { ArrowRight, Sparkles, Send, Target, Radar, Flame, Bot, ShieldAlert, ArrowUpRight, Crosshair, CheckCircle2 } from "lucide-react";
 
 export default function Home() {
   const [email, setEmail] = useState("");
